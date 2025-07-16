@@ -7,7 +7,7 @@ import Radar from '../assets/radar.png'
 
 const Service = () => {
     return (
-        <div className='lg:mt-48 mt-48 relative '>
+        <div className='lg:mt-48 mt-80 relative '>
             <div className='max-w-7xl mx-auto pb-1 relative'>
                 <h3 className='text-sm text-center font-semibold text-[#5E6282]'>CATEGORY</h3>
                 <h1 className='text-center volkhov-bold text-[#14183E] text-3xl md:text-5xl  mt-2'>We offer the best deals just for you!</h1>  
