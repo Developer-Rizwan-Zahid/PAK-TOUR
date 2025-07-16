@@ -1,11 +1,11 @@
 import React from 'react'
 import Hero from './components/Hero'
-import Service from './components/service.jsx'
-import Destination from './components/Destination.jsx'
-import Trip from './components/Trip.jsx'
-import Company from './components/Company.jsx'
-import Subscibe from './components/Subscibe.jsx'
-import Footer from './components/Footer.jsx'
+import Service from './components/Service'
+import Destination from './components/Destination'
+import Trip from './components/Trip'
+import Company from './components/Company'
+import Subscibe from './components/Subscibe'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
